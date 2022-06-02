@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(207, 206, 206);
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+.navbar{
+width: 90%;
+height: 100px;
+background-color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+
+.itemsmenu{
+    list-style: none;
+    display: inline-block;
+    justify-content:space-between;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fuegologo{
+    height: 100px;
+    width: auto;
+}
